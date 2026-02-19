@@ -1,0 +1,7 @@
+Q1: Why might we consider using Git?
+
+Answer: Git helps keep track of changes in code/files over time. 
+It also allows for more scalable work, as it allows multiple people 
+to collaborate on the same project/codebase without overwriting eachothers work. 
+It also makes it easy to add features via creating new branches and merging them, 
+reverting to previous versions, and view, deploy, and share projects via GitHub.
