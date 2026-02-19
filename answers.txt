@@ -15,3 +15,9 @@ patterns during games/training. These can help teams make better decisions in st
 prevention, and player management/selection, ultimately giving teams an edge and preventing
 injury.
 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: The difference between merging and rebasing is that merging creates a new merge commit
+that combines two branches while preserving the existing commit history. On the other hand 
+rebasing rewrites the feature branches commits by reapplying them on top of the main branch.
