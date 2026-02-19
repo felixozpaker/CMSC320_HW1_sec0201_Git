@@ -5,3 +5,13 @@ It also allows for more scalable work, as it allows multiple people
 to collaborate on the same project/codebase without overwriting eachothers work. 
 It also makes it easy to add features via creating new branches and merging them, 
 reverting to previous versions, and view, deploy, and share projects via GitHub.
+
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to multiple fields, one of which being sports.
+In sports, data science can be used to analyze player performance, injury data, and movement
+patterns during games/training. These can help teams make better decisions in strategy, injury 
+prevention, and player management/selection, ultimately giving teams an edge and preventing
+injury.
+
